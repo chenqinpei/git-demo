@@ -17,5 +17,4 @@ hellow apei!hellow git!
 hellow apei!hellow git!
 hellow apei!hellow git!  master test`
 hellow apei!hellow git! apei text	:q
->>>>>>> hit-fix
 hellow apei!hellow git!
